@@ -1,18 +1,37 @@
-免费开源翻墙软件列表
+https://mihomoparty.net/clients/
+1.代理协议
 
 
-翻墙软件介绍
-NekoRay 基于 v2ray 以及 sing-box 内核，目前已改名为 NekoBox for PC，支持 Window 和 Linux 系统。点击查看
-Hiddify App 基于 sing-box 内核，但是支持所有操作系统，并且也支持 clash 订阅格式。点击查看
-Clash Nyanpasu 是基于 Mihomo 内核的桌面端客户端，支持 Windows、macOS 和 Linux 系统。点击查看
-NekoBox for Android 基于 sing-box 内核开发，但支持 clash 订阅格式，支持 Android 系统。点击查看
-Clash Meta for Android 基于 Mihomo 内核，专门为 Android 系统设计。点击查看
-v2rayNG 基于 v2ray 内核，专门为 Android 开发。点击查看
-Mihomo Party 基于 Mihomo 内核，支持 Windows、macOS 和 Linux 系统。点击查看
-Sing-Box 基于 sing-box 内核，支持所有操作系统，但是 Windows 和 Linux 暂时没有图形客户端。点击查看
-FlClash 基于 Clash Meta 内核，支持 Windows、macOS、Linux、Android。点击查看
-v2rayN 基于 Xray、sing-box 等多个内核，支持所有桌面端操作系统。点击查看
-Clash-N 基于 Clash 内核，专门为 Windows 系统设计，目前已经停止开发，会和 v2rayN 合并。点击查看
-Karing 基于 sing-box 内核开发，但同时支持 clash 和 sing-box 订阅格式，支持除 Linux 以外的客户端。点击查看
-Clash Verge 基于 Mihomo 内核，是非常流行的桌面端翻墙软件，支持 Windows、macOS 以及 Linux。点击查看
-Copyright 2026 | MihomoParty.net# -
+2.代理内核
+Mihomo（原名 Clash Meta）是一款开源的网络代理核心（Proxy Core），由 MetaCubeX 组织维护开发。Mihomo 本身是一个纯命令行代理核心（Core），不包含图形界面（GUI）
+https://github.com/MetaCubeX/mihomo（27K）
+
+sing-box
+sing-box 本身是纯命令行代理核心（Core），不包含图形界面，与 Mihomo/Clash 定位相同。但社区已开发多个图形化客户端（GUI） 封装 sing-box 内核，提供可视化操作体验。
+https://github.com/SagerNet/sing-box（30K）
+
+内核名称|	开发组织/作者|	特点	|协议支持	|开源
+Xray-core|	XTLS 组织|	V2Ray 超集，性能优化，支持 XTLS/REALITY|	VMess/VLESS/Trojan/Shadowsocks + REALITY|	✅
+sing-box|	SagerNet (Project S)	|现代化架构，模块化设计，支持链式代理|	全协议（含 Hysteria2/TUIC/REALITY/WireGuard）|	✅
+Mihomo	|MetaCubeX|	Clash.Meta 增强版，规则引擎强大	VMess/VLESS/Trojan/Shadowsocks + Hysteria2/TUIC|	✅
+v2fly-core|	v2fly 社区|	V2Ray 官方维护分支，稳定但功能保守	|基础协议（VMess/VLESS/Trojan/Shadowsocks）|	✅
+clash|	Dreamacro	|原版 Clash，轻量级	|基础协议（SS/VMess/Trojan）|	✅
+
+
+
+3.代理软件
+v2rayN
+https://github.com/2dust/v2rayN
+
+clash-party（Mihomo）
+https://github.com/mihomo-party-org/clash-party
+
+clash-verge-rev（Mihomo）
+https://github.com/clash-verge-rev/clash-verge-rev
+
+sing-box-windows（sing-box）
+https://github.com/xinggaoya/sing-box-windows
+
+GUI.for.SingBox（sing-box）
+https://github.com/GUI-for-Cores/GUI.for.SingBox
+
