@@ -6,7 +6,7 @@ https://github.com/clash-download/Clash
 
 
 2.代理内核
-Mihomo（原名 Clash Meta）是一款开源的网络代理核心（Proxy Core），由 MetaCubeX 组织维护开发。Mihomo 本身是一个纯命令行代理核心（Core），不包含图形界面（GUI）
+Mihomo（原名 Clash Meta）是一款开源的网络代理核心（Proxy Core），由 MetaCubeX 组织维护开发。Mihomo 本身是一个纯命令行代理核心（Core），不包含图形界面（GUI）  
 https://github.com/MetaCubeX/mihomo（27K）
 
 sing-box
@@ -33,6 +33,7 @@ Electron 是一个开源的桌面应用开发框架，由 GitHub（现属 Micros
 clash-verge-rev（Mihomo）（TypeScript）（Tauri框架）
 https://github.com/clash-verge-rev/clash-verge-rev
 Tauri 是一个现代、轻量级的开源框架，用于使用 Web 前端技术（HTML/CSS/JavaScript 或前端框架如 React、Vue、Svelte 等）构建安全、高性能的跨平台桌面应用程序。https://github.com/tauri-apps/tauri
+原仓库：https://github.com/zzzgydi/clash-verge
 
 sing-box-windows（sing-box）（Tauri框架）
 https://github.com/xinggaoya/sing-box-windows
