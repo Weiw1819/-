@@ -60,4 +60,10 @@ karing（Flutter框架）
 https://github.com/KaringX/karing  
 
 nekoray（Qt框架）  
-https://github.com/MatsuriDayo/nekoray
+https://github.com/MatsuriDayo/nekoray  
+
+Qv2ray（Qt框架）  
+https://github.com/Qv2ray/Qv2ray  
+
+shadowsocks-qt5（Qt框架） 
+https://github.com/shadowsocks/shadowsocks-qt5  
