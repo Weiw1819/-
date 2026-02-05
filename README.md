@@ -38,7 +38,7 @@ Tauri 是一个现代、轻量级的开源框架，用于使用 Web 前端技术
 sing-box-windows（sing-box）（Tauri框架）  
 https://github.com/xinggaoya/sing-box-windows  
 
-clash-nyanpasu（Tauri框架）
+clash-nyanpasu（Tauri框架）  
 https://github.com/libnyanpasu/clash-nyanpasu
 
 GUI.for.SingBox（sing-box）（Wails框架）  
@@ -65,5 +65,5 @@ https://github.com/MatsuriDayo/nekoray
 Qv2ray（Qt框架）  
 https://github.com/Qv2ray/Qv2ray  
 
-shadowsocks-qt5（Qt框架） 
+shadowsocks-qt5（Qt框架）  
 https://github.com/shadowsocks/shadowsocks-qt5  
